@@ -9,8 +9,7 @@ a{
     justify-content: space-between;
     align-items: center;
     padding: 10px;
-    background-color:#89e8f5;;
-    text-decoration:none;
+    background-color:#89e8f5;
 }
 .navbar .logo {
     font-size: 24px;
@@ -101,3 +100,33 @@ p{
   margin-bottom: 20px;
   padding-right: 0%;
 } 
+/* Projects Section */
+#projects {
+  padding: 50px;
+  background-color: #141414;
+}
+
+#projects h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 30px;
+  color: #42d3b4;
+}
+
+.project {
+  background: #bda5a5;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+
+.project h3 {
+  color: #6fa04e;
+  margin-bottom: 10px;
+}
+
+.project p {
+  color: #0a0a0a;
+  font-size: 1rem;
+  line-height: 1.5;
+}
